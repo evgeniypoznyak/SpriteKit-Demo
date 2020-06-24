@@ -13,6 +13,8 @@
 		7A73FD66249F279300ADCC18 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A73FD64249F279300ADCC18 /* Main.storyboard */; };
 		7A73FD68249F279400ADCC18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A73FD67249F279400ADCC18 /* Assets.xcassets */; };
 		7A73FD6B249F279400ADCC18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A73FD69249F279400ADCC18 /* LaunchScreen.storyboard */; };
+		7AC357E324A30EE7007DB020 /* MyFirstTileMapScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7AC357E224A30EE7007DB020 /* MyFirstTileMapScene.sks */; };
+		7AC357E524A31157007DB020 /* MyFirstTileSet.sks in Resources */ = {isa = PBXBuildFile; fileRef = 7AC357E424A31157007DB020 /* MyFirstTileSet.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		7A73FD67249F279400ADCC18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A73FD6A249F279400ADCC18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A73FD6C249F279400ADCC18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7AC357E224A30EE7007DB020 /* MyFirstTileMapScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyFirstTileMapScene.sks; sourceTree = "<group>"; };
+		7AC357E424A31157007DB020 /* MyFirstTileSet.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyFirstTileSet.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				7A73FD67249F279400ADCC18 /* Assets.xcassets */,
 				7A73FD69249F279400ADCC18 /* LaunchScreen.storyboard */,
 				7A73FD6C249F279400ADCC18 /* Info.plist */,
+				7AC357E224A30EE7007DB020 /* MyFirstTileMapScene.sks */,
+				7AC357E424A31157007DB020 /* MyFirstTileSet.sks */,
 			);
 			path = "SpriteKit Demo";
 			sourceTree = "<group>";
@@ -127,7 +133,9 @@
 			files = (
 				7A73FD66249F279300ADCC18 /* Main.storyboard in Resources */,
 				7A73FD68249F279400ADCC18 /* Assets.xcassets in Resources */,
+				7AC357E324A30EE7007DB020 /* MyFirstTileMapScene.sks in Resources */,
 				7A73FD6B249F279400ADCC18 /* LaunchScreen.storyboard in Resources */,
+				7AC357E524A31157007DB020 /* MyFirstTileSet.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
